@@ -13,3 +13,12 @@ Certifiquem-se de que o aplicativo resultante seja funcional, intuitivo, respons
 Qualquer dúvida ou problema durante o desenvolvimento, não hesitem em entrar em contato para obter orientações adicionais.
 
 Este trabalho deverá ser feito em grupo de até duas pessoas, em que os integrantes do grupo serão escolhidos por vocês.
+
+
+____________________________________________
+
+Deslize para o lado para excluir
+
+Aperte na mensagem que automaticamente preenche o campo de edição
+
+Gabriel Rocha Robles (RA: 80953-2021)
